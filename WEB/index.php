@@ -60,9 +60,9 @@
       <div id="intro-section3" class="section">
         <h1>팀원 페이지</h1>
 
-        <h2>이형우 : <a href='#'></a></h2>
-        <h2>홍시영 : <a href='#'></a></h2>
-        <h2>김동현 : <a href='#'></a></h2>
+        <h2>이형우 : Github<a href='https://github.com/hyoungWoo-lee/hyoungWoo-lee.github.io'></a></h2>
+        <h2>홍시영 : Github<a href='https://github.com/mushbaur/oss-dev-2020'></a></h2>
+        <h2>김동현 : 미제출<a href='#'></a></h2>
       </div>
       <div id="contact-section" class="section">
 
