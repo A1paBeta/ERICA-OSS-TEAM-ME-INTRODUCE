@@ -1,0 +1,75 @@
+@font-face { font-family: 'NanumBarunpen'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+*{
+  font-family:NanumBarunpen, sans-serif;
+  color:#424242
+}
+
+header{
+  position: fixed;
+      width: -webkit-fill-available;
+      padding: 1% 11%;
+
+}
+
+nav{
+
+}
+
+nav > ul{
+  list-style: none;
+  width: -webkit-fill-available;
+}
+
+nav > ul > li{
+  float: right;
+  margin: 2%;
+  font-size: 15pt;
+  font-weight: bold;
+
+}
+
+nav > ul > li:hover{
+  cursor:pointer;
+  color: #ff5722;
+}
+
+article{
+  height: 100%;
+}
+
+.section{
+  height: 100%;
+
+  border-bottom: 1px solid #e8e8e8;
+}
+
+#index-section{
+  background: url('../Assets/Images/background/background.001.jpeg');
+    background-size: 100% 100%;
+}
+
+#intro-section{
+  background: url('../Assets/Images/background/background.002.jpeg');
+    background-size: 100% 100%;
+
+}
+#intro-section2{
+  background: url('../Assets/Images/background/background.003.jpeg');
+    background-size: 100% 100%;
+
+}
+#intro-section3 > h1{
+  text-align: center;
+  padding: 7%;
+}
+
+#intro-section3 > h2{
+  text-align: center;
+  padding: 3%;
+}
+
+#contact-section{
+  background: url('../Assets/Images/background/background.004.jpeg');
+    background-size: 100% 100%;
+}
